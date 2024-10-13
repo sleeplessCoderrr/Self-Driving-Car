@@ -24,7 +24,7 @@ class Controls{
                     this.forward = true;
                     break;
             }
-        }
+        } 
         
 
         document.onkeyup=(event)=>{
